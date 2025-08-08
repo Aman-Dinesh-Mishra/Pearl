@@ -25,11 +25,11 @@
 | Deployment    | GitHub Pages / Vercel |
 
 ---
-
+## Live : https://pearlide.vercel.app/
 ## 📦 Installation
 
 ```bash
 git clone https://github.com/your-username/pearl-editor.git
 cd pearl-editor
 npm install
-npm start
+npm start ```
