@@ -1,12 +1,35 @@
-# React + Vite
+# 🦪 Pearl Editor
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+**Pearl Editor** is a minimalist, interactive code editor designed to help developers intuitively analyze and optimize time and space complexity. Built with React and Tailwind CSS, it offers a distraction-free interface and animated feedback to make algorithmic problem-solving smoother and smarter.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 📊 **Complexity Insights**: Visual cues and annotations to help estimate time and space complexity.
+- 🧠 **Code Snippets**: Preloaded templates for common data structures and algorithms.
+- ⚡ **Live Feedback**: Real-time syntax highlighting and performance hints.
+- 🎨 **Modern UI**: Clean, responsive design with subtle animations for an engaging experience.
+- 🛠️ **Customizable Themes**: Switch between light/dark modes and personalize your coding environment.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🧩 Tech Stack
+
+| Layer         | Technology        |
+|---------------|-------------------|
+| Frontend      | React.js          |
+| Styling       | Tailwind CSS      |
+| Animations    | Framer Motion     |
+| State Mgmt    | React Hooks       |
+| Deployment    | GitHub Pages / Vercel |
+
+---
+
+## 📦 Installation
+
+```bash
+git clone https://github.com/your-username/pearl-editor.git
+cd pearl-editor
+npm install
+npm start
